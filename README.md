@@ -1,159 +1,123 @@
-<!-- macOS Header with Subtle Animation -->
+<!-- Modern Header -->
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:E3E3E8,50:F5F7FA,100:E3E3E8&height=280&section=header&text=Nikhil%20P&fontSize=90&fontColor=1d1d1f&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20Blockchain%20Enthusiast&descAlignY=58&descSize=18&descColor=6e6e73)
-
-</div>
-
-<br/>
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=220&section=header&text=Nikhil%20P&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Cybersecurity%20%E2%80%A2%20Software%20Development&descAlignY=62&descSize=18&descColor=94a3b8)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=500&size=24&duration=4000&pause=1000&color=0071e3&center=true&vCenter=true&width=700&lines=Building+elegant%2C+scalable+systems;Exploring+the+web3+ecosystem;Turning+ideas+into+reality" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Cybersecurity+%26+Network+Defense;Building+Secure%2C+Privacy-First+Software;Creator+of+iVibe+(ivibe.tech)+-+Meta+AI+Hackathon;CompTIA+Security%2B+%26+Google+Cybersecurity" alt="Typing SVG" />
 </p>
 
-<br/>
-<br/>
-
-<!-- About Section -->
-<div align="center">
-  
-<img width="50" src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" alt="Fire" />
-
-## About Me
+<p align="center">
+  <a href="https://linkedin.com/in/nikhil-p"><img src="https://img.shields.io/badge/LinkedIn-Nikhil%20P-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:hi.nikhilp@gmail.com"><img src="https://img.shields.io/badge/Email-hi.nikhilp%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://ivibe.tech"><img src="https://img.shields.io/badge/Project-ivibe.tech-10b981?style=flat-square&logo=safari&logoColor=white" alt="ivibe.tech"/></a>
+  <a href="https://nikylogic.github.io/bcu-bca-5th-sem-notes/"><img src="https://img.shields.io/badge/Portal-BCU%20BCA%20Notes-6366f1?style=flat-square" alt="BCU Notes"/></a>
+</p>
 
 </div>
 
 <br/>
 
-<table align="center" width="90%">
+<!-- Profile Overview Grid -->
+<table align="center" width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-<br/>
+```typescript
+interface Profile {
+  name: "Nikhil P";
+  role: "Cybersecurity & Software Developer";
+  location: "Bengaluru, India";
+  education: "BCA (Final Year) @ Bengaluru City University";
+  
+  credentials: [
+    "Google Cybersecurity Professional (In Progress)",
+    "CompTIA Security+ (In Preparation)"
+  ];
 
-```javascript
-const developer = {
-  name: "Nikhil P",
-  title: "Software Engineer",
-  location: "Building the future",
-  
-  expertise: {
-    languages: ["JavaScript", "TypeScript", 
-                "Python", "Solidity"],
-    focus: ["Blockchain", "Web3", "Full-Stack"],
-    databases: ["MongoDB", "PostgreSQL"],
-    tools: ["React", "Node.js", "Docker", "AWS"]
-  },
-  
-  currently: "Learning AI/ML deployment",
-  
-  philosophy: "Always learning, always building"
-};
+  interests: [
+    "Network Defense", 
+    "Threat Analysis", 
+    "On-Device Privacy & Redaction",
+    "Systems & Developer Tooling"
+  ];
+
+  status: "Seeking Cybersecurity / SDE Internship";
+}
 ```
 
-<br/>
-
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-<br/>
+### Focus & Objectives
 
-### 🔭 Currently Working On
-
-**[Wenoice](https://www.wenoice.com/)** — AI-powered meeting notes platform
-
-<br/>
-
-### 🚀 Side Project
-
-**[ThePaperBull](https://thepaperbull.com/)** — Crypto paper trading platform
-
-<br/>
-
-### 🎓 Currently Learning
-
-**AI & DevOps** — Deploying and training machine learning models
-
-<br/>
-
-### 💡 Open For
-
-Collaborations, mentorship, and guidance in AI/ML deployment
-
-<br/>
-
-### 📫 Contact
-
-**hi.nikhilp@gmail.com**
-
-<br/>
+- **Final-Year BCA Student** specializing in cybersecurity, network defense fundamentals, and robust software engineering.
+- **Defensive Engineering:** Focused on zero-trust architectures, threat modeling, and local data protection.
+- **Hackathon Builder:** Creating native developer tools that combine on-device privacy with modern AI model APIs.
+- **Open for Opportunities:** Actively seeking hands-on cybersecurity and software engineering internships to contribute to production environments.
 
 </td>
 </tr>
 </table>
 
 <br/>
-<br/>
+
+<!-- Featured Engineering Projects -->
+### Featured Engineering Projects
+
+#### [iVibe — AI Bug Reporting & Developer Assistant](https://ivibe.tech)
+*Meta AI Developer Hackathon Project | Electron, TypeScript, OCR, Meta Model API*
+- Cross-platform desktop application (Windows, macOS, Linux) capturing screen activity and voice narration to pinpoint code errors and generate structured fix prompts.
+- Built-in **on-device OCR secret redaction (PP-OCRv5)** to mask API keys, tokens, `.env` values, and password managers before any frame leaves the machine.
+- Integrated Meta’s **Muse Spark 1.3**, **Muse Voice Transcribe**, and **SAM 3.1** to automatically isolate and visually highlight bug UI elements.
+- [Official Website](https://ivibe.tech) • [GitHub Repository](https://github.com/nikylogic/ivibe)
+
+#### [PhishGuard — Threat Detection & Social Engineering Analysis](https://github.com/nikylogic/PhishGuard)
+*Cybersecurity Project | Python, Heuristic Risk Scoring*
+- Detection engine analyzing suspicious URLs, domain spoofing heuristics, and common social-engineering attack vectors.
+- Implemented risk assessment logic to evaluate domain credibility and prevent credential harvesting.
+
+#### [BCU BCA 5th Sem — Solved Question Banks & Exam Hub](https://nikylogic.github.io/bcu-bca-5th-sem-notes/)
+*Open-Source University Resource | Bengaluru City University (NEP/SEP)*
+- Complete solved question bank covering Software Engineering, Web Programming, Data Analytics, and Cryptography & Network Security.
+- Engineered as a mobile-first, AI-ready web portal with direct print-ready PDF downloads and Schema.org structured metadata.
+- [Live Portal](https://nikylogic.github.io/bcu-bca-5th-sem-notes/) • [GitHub Repository](https://github.com/nikylogic/bcu-bca-5th-sem-notes)
+
 <br/>
 
-<!-- Tech Stack -->
+<!-- Certifications -->
+### Certifications & Training
+
+- **Google Cybersecurity Professional Certificate** — Coursera *(In Progress)*  
+  *Covers network security, cyber risk management, Linux terminal, SQL, SIEM fundamentals, and Python security automation.*
+- **CompTIA Security+** — *(In Preparation)*  
+  *Focusing on threat vectors, vulnerability assessment, cryptography, network defense architectures, and IAM.*
+
+<br/>
+
+<!-- Technical Skills -->
+### Technical Arsenal
+
+| Domain | Stack & Competencies |
+|:---|:---|
+| **Cybersecurity** | Cyber Risk Assessment, Network Defense Fundamentals, Threat Analysis, Vulnerability Awareness, On-Device Secret Redaction, SIEM Basics |
+| **Languages** | Python, TypeScript, Rust, SQL, C/C++, JavaScript, HTML5/CSS3 |
+| **Tools & Platforms** | Linux (Bash/CLI), Windows, Git/GitHub, Electron, Docker Basics, VS Code |
+| **Core Computer Science** | Computer Networks (TCP/IP, DNS, HTTP/HTTPS), Operating Systems, DBMS, Software Engineering |
+
+<br/>
+
 <div align="center">
-
-<img width="50" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="Tech" />
-
-## Technology Stack
-
+  <img src="https://skillicons.dev/icons?i=python,ts,rust,c,cpp,postgres,linux,git,electron,docker&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,python,solidity&theme=light" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,git,aws,docker,tailwind&theme=light" />
-</p>
-
-<br/>
-<br/>
-<br/>
-
-
-
-<!-- Connect -->
+<!-- Footer -->
 <div align="center">
 
-<img width="50" src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" alt="Connect" />
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer)
 
-## Let's Connect
-
-<br/>
-
-<a href="https://www.linkedin.com/in/-nikhil-p">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40" width="140"/>
-</a>
-
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-
-**Open to discussing:** Blockchain • Web3 • AI/ML • Startup Ideas • Collaborations
-
-</div>
-
-<br/>
-<br/>
-<br/>
-
-<!-- macOS Footer with Subtle Animation -->
-<div align="center">
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:E3E3E8,50:F5F7FA,100:E3E3E8&height=180&section=footer&animation=twinkling)
-
-<br/>
-
-✨ **Let's build something amazing together** ✨
+<sub>Crafted by <strong>Nikhil P</strong> • Bengaluru, India</sub>
 
 </div>
