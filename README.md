@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nikhil-p"><img src="https://img.shields.io/badge/LinkedIn-Nikhil%20P-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/nikylogic"><img src="https://img.shields.io/badge/LinkedIn-Nikhil%20P-0a66c2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:hi.nikhilp@gmail.com"><img src="https://img.shields.io/badge/Email-hi.nikhilp%40gmail.com-ea4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://ivibe.tech"><img src="https://img.shields.io/badge/Project-ivibe.tech-10b981?style=flat-square&logo=safari&logoColor=white" alt="ivibe.tech"/></a>
   <a href="https://nikylogic.github.io/bcu-bca-5th-sem-notes/"><img src="https://img.shields.io/badge/Portal-BCU%20BCA%20Notes-6366f1?style=flat-square" alt="BCU Notes"/></a>
